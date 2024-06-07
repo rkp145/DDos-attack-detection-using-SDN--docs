@@ -1,5 +1,5 @@
 # DDos-attack-detection-using-SDN--docs
-This will only have readme file of the original repository. 
+This will only have readme file of the original repository. For more details, contact the repository owner.
 
 # DDos-Attack-Detection-Using-SDN-Network
 Implemented an entropy‐based detection method for software‐ defined networks (SDN) using Python and the POX controller. Ana‐ lyzed multiple entropy values from incoming packets collected via OpenSwitch, evaluated performance, and utilized Mininet for net‐ work simulation and understanding.
@@ -31,6 +31,10 @@ To set up the project, ensure you have the following dependencies installed:
 2. Install Dependencies.
 3. Set Up Mininet.
 4. Run POX Controller.
+
+Contact
+
+For any questions or inquiries, please contact(mailto:ramankumarpal104@gmail.com)
    
 
 
